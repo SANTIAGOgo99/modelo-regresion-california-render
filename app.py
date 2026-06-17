@@ -298,9 +298,7 @@ HTML = """
                     Esta cantidad representa la estimación del valor medio de las viviendas según las características ingresadas.
                 </p>
 
-                <p class="texto-resultado">
-                    El modelo utilizado es de regresión y fue entrenado para predecir valores numéricos, no categorías.
-                </p>
+               
             </div>
         </div>
     </div>
